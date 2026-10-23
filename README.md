@@ -3,6 +3,7 @@
 **Author:** Ariella Atmoko  
 **Tools:** Excel, PostgreSQL, PowerPoint  
 **Dataset size:** 3,636 rows
+**Dummy Dataset Source:** https://www.kaggle.com/datasets/ihelon/coffee-sales
 
 ## Project Overview
 
